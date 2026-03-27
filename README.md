@@ -25,18 +25,4 @@ An interactive 3D portfolio website designed as a flipping book. Each page repre
 * Creative way of presenting personal portfolio
 * Focus on user experience and visual appeal
 
-
-## 📁 Project Setup
-
-1. Clone the repository
-2. Open index.html in browser
-
-## 💡 Future Improvements
-
-* Add dynamic project loading
-* Improve animations with libraries
-* Add backend contact form
-
----
-
 ✨ This project demonstrates advanced CSS animations, creativity, and frontend development skills.
